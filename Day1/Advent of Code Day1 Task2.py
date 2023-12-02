@@ -55,8 +55,7 @@ def calcNumbers():
     for digit in numberList:
         sum = sum + int(digit)
     print(sum)
-    print("real: 54578")
-    #print("asdfasdfasdfasdfasdf".replace("a", "!"))
+
 
 readCSVFile()
 stringSlice()
